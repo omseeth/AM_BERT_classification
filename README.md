@@ -20,8 +20,8 @@ two. But these tasks allow to easily infer the argumentative function in the
 previously mentioned fashion.
 
 This project is being realized with two different corpora of annotated 
-arguments, the *Cornell eRulemaking Corpus – CDCP* and the *Microtext* corpus 
-(consider **Data**).
+arguments, the *Cornell eRulemaking Corpus – CDCP* and the *Argumentative 
+Microtext Corpus* (consider **Data**).
 
 Three hypotheses are evaluated with the test results from the trained 
 classifiers and Welch's one-tailed t-tests (consider 
