@@ -1,0 +1,9 @@
+matplotlib
+numpy
+pandas
+requests
+sklearn
+tabulate
+transformers
+torch
+tqdm
