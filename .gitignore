@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.venv
+.vscode
+.python-version
+
+__pycache__
+.pytest_cache
+
+data/
+models/
