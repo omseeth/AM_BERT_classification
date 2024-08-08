@@ -36,7 +36,7 @@ Microtext: H1 is rejected.
 
 >**H2** Window clipping) The classification of directed and typed edges, that 
  is, argument relations that are not None, can be improved when training and 
-testing are done with a window for neighboring nodes with a window-size of 1.
+testing are done with a window for neighboring nodes with a window-size of d=1.
 
 CDCP: H2 can be confirmed for `support` relations with a p-value of **0.0526** 
 and 
@@ -46,7 +46,7 @@ Microtext: H2 is rejected for all relation types.
 >**H3** Data augmentation) The classification of directed and typed edges, 
 that is, argument relations that are not None, can be improved when 
 training and testing are done with a window for neighboring nodes with a 
-window-size of 1 AND when the data of the corpus is augmented.
+window-size of d=1 AND when the data of the corpus is augmented.
 
 CDCP: H3 is rejected. \
 Microtext: H3 is rejected.
