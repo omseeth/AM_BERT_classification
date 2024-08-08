@@ -37,7 +37,8 @@ print(h1_micro_t_test_result)
 
 # H2: Window clipping) The classification of directed and typed edges, that is, 
 # argument relations that are not None, can be improved when training and 
-# testing are done with a window for neighboring nodes with a window-size of 1.
+# testing are done with a window for neighboring nodes with a window-size of
+# d=1.
 
 # (H2) for support relations in the CDCP corpus
 
@@ -85,8 +86,8 @@ print(h2_micro_reb_t_test_result)
 
 # H3 Data augmentation) The classification of directed and typed edges, that is,
 # argument relations that are not None, can be improved when training and 
-# testing are done with a window for neighboring nodes with a window-size of 1 
-# AND when the data of the corpus is augmented.
+# testing are done with a window for neighboring nodes with a window-size of
+# d=1 AND when the data of the corpus is augmented.
 
 # (H3) for support relations from the augmented CDCP corpus
 
